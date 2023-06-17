@@ -38,7 +38,7 @@ Skills Demonstrated:
 *Advanced charting and visualization techniques for effective data presentation.
 *Interpretation of analysis results to derive actionable recommendations.
 
-The project is available for exploration on Kaggle: 
+The project is available for exploration on Kaggle: https://www.kaggle.com/code/jyotimanojmandal/diwali-sales-analysis-and-insight
 
 This Diwali Sales Analysis and Insights project showcases my expertise in data analysis, data cleaning, and visualization using Python. The findings and recommendations derived from this project can help businesses optimize their sales strategies, target the right customer segments, and maximize revenue during the Diwali season. Please feel free to explore the project on Kaggle and reach out to me with any inquiries or feedback. 
 #salesanalysis #datainsights #businessintelligence #datavisualization
